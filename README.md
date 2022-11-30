@@ -1,4 +1,4 @@
-![](https://github.com/kharnakhoeva/portfolio/blob/main/15440802a87846e98df2971e7e8d8c35.jpg)
+![](https://github.com/kharnakhoeva/kharnakhoeva.github.io/blob/main/15440802a87846e98df2971e7e8d8c35.png)
 
 # Обо мне
 
