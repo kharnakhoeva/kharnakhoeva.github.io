@@ -13,7 +13,7 @@
 
 [Резюме на hh](https://khimki.hh.ru/resume/c45d82d0ff0b4e7c2b0039ed1f337961623375)
 
-Используемые технологии: python, numpy, sklearn, seaborn, pytorch, matplotlib, plotly, catboost, xgboost, lightgbm, SQL.
+Используемые технологии: Python, NumPy, Sklearn, Seaborn, PyTorch, Matplotlib, Plotly, CatBoost, XGBoost, LightGBM, SQL.
 
 # Хакатоны
 
@@ -21,16 +21,17 @@
 
 # Дипломный проект
 
- | Проект | Задачи проекта |
+ | Проект | Задачи проекта | Стек |
 | :-----------| :----------- | 
-| [Промышленная обработка стали](https://github.com/kharnakhoeva/portfolio/blob/main/p16_steel/final_project16_kharnakhoeva.ipynb) | Чтобы оптимизировать производственные расходы, металлургический комбинат ООО «Так закаляем сталь» решил уменьшить потребление электроэнергии на этапе обработки стали. Задача: построить модель, которая предскажет температуру стали |
+| [Промышленная обработка стали](https://github.com/kharnakhoeva/portfolio/blob/main/p16_steel/final_project16_kharnakhoeva.ipynb) | Чтобы оптимизировать производственные расходы, металлургический комбинат ООО «Так закаляем сталь» решил уменьшить потребление электроэнергии на этапе обработки стали. Задача: построить модель, которая предскажет температуру стали | Python, Matplotlib, Seaborn, NumPy, Sklearn, CatBoost, LightGBM, XGBoost
+
 
 ## Портфолио ML- и DL-проектов
 
- | Проект | Задачи проекта |
+ | Проект | Задачи проекта | Стек |
 | :-----------| :----------- | 
-| [Определение возраста по фото](https://github.com/kharnakhoeva/portfolio/blob/main/p15_supermarket/image_recognition_project15_kharnakhoeva.ipynb) | Задача: построить модель, которая по фотографии человека могла бы предсказывать его возраст |
-| [Классификация комментариев](https://github.com/kharnakhoeva/portfolio/blob/main/p13_shop/ml4text_project13_kharnakhoeva.ipynb) | Интернет-магазин «Викишоп» запускает новый сервис - пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. Задача: найти инструмент, который будет искать токсичные комментарии и отправлять их на модерацию |
+| [Определение возраста по фото](https://github.com/kharnakhoeva/portfolio/blob/main/p15_supermarket/image_recognition_project15_kharnakhoeva.ipynb) | Задача: построить модель, которая по фотографии человека могла бы предсказывать его возраст | Python, Keras
+| [Классификация комментариев](https://github.com/kharnakhoeva/portfolio/blob/main/p13_shop/ml4text_project13_kharnakhoeva.ipynb) | Интернет-магазин «Викишоп» запускает новый сервис - пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. Задача: найти инструмент, который будет искать токсичные комментарии и отправлять их на модерацию | BERT, Pandas, Python, nltk, tf-idf
 | [Прогнозирование количества заказов такси на следующий час](https://github.com/kharnakhoeva/portfolio/blob/main/p12_taxi/timeseries_project12_kharnakhoeva.ipynb) | Компания «Чётенькое такси» собрала исторические данные о заказах такси в аэропортах. Задача: найти модель предсказания количества заказов такси на следующий час |
 | [Определение стоимости автомобиля](https://github.com/kharnakhoeva/portfolio/blob/main/p11_cars/nummeth_project11_kharnakhoeva.ipynb) | Сервис по продаже автомобилей с пробегом «Не бит, не крашен» разрабатывает приложение, чтобы привлечь новых клиентов. В нём можно будет узнать рыночную стоимость своего автомобиля. Задача: построить модель, которая умеет определять рыночную стоимость автомобиля |
 | [Защита персданных](https://github.com/kharnakhoeva/portfolio/blob/main/p10_insurance/linalgebra_project10_kharnakhoeva.ipynb) | Необходимо защитить данные клиентов страховой компании «Хоть потоп». Задача: разработать метод преобразования данных, чтобы по ним было сложно восстановить персональные данные |
